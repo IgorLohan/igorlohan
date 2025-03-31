@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=igorlohan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=igorlohan&locale=pt-br&mode=weekly&theme=noctis_minimus&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorlohan&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorLohan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=IgorLohan&locale=pt-br&mode=weekly&theme=noctis_minimus&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorLohan&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/igorlohan/igorlohan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/IgorLohan/igorlohan/output/snake.svg" alt="Snake animation" />
 
 ###
