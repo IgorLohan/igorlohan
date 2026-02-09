@@ -19,48 +19,42 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorLohan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorLohan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="165" alt="Top languages" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=igorlohan&theme=tokyonight-duo&border_radius=50&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <strong>🎨 Front-end</strong>
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="28" width="28" alt="JavaScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" width="28" alt="TypeScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" width="28" alt="HTML5" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" width="28" alt="CSS3" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" width="28" alt="React" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" width="28" alt="Next.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="28" width="28" alt="Vue.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="28" width="28" alt="Vuetify" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="28" width="28" alt="Tailwind" />
-    </td>
-    <td align="center" width="33%">
-      <strong>⚙️ Back-end</strong>
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="28" width="28" alt="Node.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="28" width="28" alt="NestJS" />
-      <img src="https://loopback.io/images/global/loopback-mark-frame-white.svg" height="28" width="28" alt="LoopBack" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" width="28" alt="MongoDB" />
-    </td>
-    <td align="center" width="33%">
-      <strong>🔧 DevOps & Tools</strong>
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="28" width="28" alt="Git" />
-      <img src="https://cdn.simpleicons.org/github/ffffff" height="28" width="28" alt="GitHub" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" height="28" width="28" alt="Bitbucket" />
-      <img src="https://cdn.simpleicons.org/cursor/ffffff" height="28" width="28" alt="Cursor" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="28" width="28" alt="Jira" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <div style="display: inline-block; vertical-align: top; text-align: center; margin: 0 12px;">
+    <strong>🎨 Front-end</strong><br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="28" width="28" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" width="28" alt="TypeScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" width="28" alt="HTML5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" width="28" alt="CSS3" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" width="28" alt="React" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" width="28" alt="Next.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="28" width="28" alt="Vue.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="28" width="28" alt="Vuetify" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="28" width="28" alt="Tailwind" />
+  </div>
+  <div style="display: inline-block; vertical-align: top; text-align: center; margin: 0 12px;">
+    <strong>⚙️ Back-end</strong><br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="28" width="28" alt="Node.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="28" width="28" alt="NestJS" />
+    <img src="https://loopback.io/images/global/loopback-mark-frame-white.svg" height="28" width="28" alt="LoopBack" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" width="28" alt="MongoDB" />
+  </div>
+  <div style="display: inline-block; vertical-align: top; text-align: center; margin: 0 12px;">
+    <strong>🔧 DevOps & Tools</strong><br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="28" width="28" alt="Git" />
+    <img src="https://cdn.simpleicons.org/github/ffffff" height="28" width="28" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" height="28" width="28" alt="Bitbucket" />
+    <img src="https://cdn.simpleicons.org/cursor/ffffff" height="28" width="28" alt="Cursor" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="28" width="28" alt="Jira" />
+  </div>
+</div>
 
 ---
 
