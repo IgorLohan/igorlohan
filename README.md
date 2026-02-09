@@ -30,9 +30,7 @@
 
 ## 🛠️ Tecnologias e ferramentas
 
-<sub>Stack que utilizo no dia a dia</sub>
-
-<table border="0" cellspacing="0" cellpadding="0" style="border: none !important;">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border: none !important;">
   <tr>
     <td width="33%" valign="top" style="border: none !important;">
       <kbd>🎨 Front-end</kbd>
