@@ -29,41 +29,44 @@
 ---
 
 ## 🛠️ Tecnologias e ferramentas
-<br>
 
-<div align="left">
-  <div style="display: inline-block; vertical-align: top; text-align: left; margin-right: 40px; min-width: 260px;">
-    <kbd>🎨 Front-end</kbd>
-    <br><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="32" width="32" alt="JavaScript" style="margin-right: 6px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" width="32" alt="TypeScript" style="margin-right: 6px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" width="32" alt="HTML5" style="margin-right: 6px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" width="32" alt="CSS3" style="margin-right: 6px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" width="32" alt="React" />
-    <br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" width="32" alt="Next.js" style="margin-right: 6px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" width="32" alt="Vue.js" style="margin-right: 6px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="32" width="32" alt="Vuetify" style="margin-right: 6px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="32" width="32" alt="Tailwind" />
-  </div>
-  <div style="display: inline-block; vertical-align: top; text-align: left; margin-right: 40px; min-width: 200px;">
-    <kbd>⚙️ Back-end</kbd>
-    <br><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="32" width="32" alt="Node.js" style="margin-right: 6px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="32" width="32" alt="NestJS" style="margin-right: 6px;" />
-    <img src="https://loopback.io/images/global/loopback-mark-frame-white.svg" height="32" width="32" alt="LoopBack" style="margin-right: 6px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" width="32" alt="MongoDB" />
-  </div>
-  <div style="display: inline-block; vertical-align: top; text-align: left; min-width: 220px;">
-    <kbd>🔧 DevOps & Tools</kbd>
-    <br><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="32" width="32" alt="Git" style="margin-right: 6px;" />
-    <img src="https://cdn.simpleicons.org/github/ffffff" height="32" width="32" alt="GitHub" style="margin-right: 6px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" height="32" width="32" alt="Bitbucket" style="margin-right: 6px;" />
-    <img src="https://cdn.simpleicons.org/cursor/ffffff" height="32" width="32" alt="Cursor" style="margin-right: 6px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="32" width="32" alt="Jira" />
-  </div>
-</div>
+<sub>Stack que utilizo no dia a dia</sub>
+
+<table border="0" cellspacing="0" cellpadding="0" style="border: none !important;">
+  <tr>
+    <td width="33%" valign="top" style="border: none !important;">
+      <kbd>🎨 Front-end</kbd>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="32" width="32" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" width="32" alt="TypeScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" width="32" alt="HTML5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" width="32" alt="CSS3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" width="32" alt="React" />
+      <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" width="32" alt="Next.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" width="32" alt="Vue.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="32" width="32" alt="Vuetify" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="32" width="32" alt="Tailwind" />
+    </td>
+    <td width="33%" valign="top" style="border: none !important;">
+      <kbd>⚙️ Back-end</kbd>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="32" width="32" alt="Node.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="32" width="32" alt="NestJS" />
+      <img src="https://loopback.io/images/global/loopback-mark-frame-white.svg" height="32" width="32" alt="LoopBack" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" width="32" alt="MongoDB" />
+    </td>
+    <td width="34%" valign="top" style="border: none !important;">
+      <kbd>🔧 DevOps & Tools</kbd>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="32" width="32" alt="Git" />
+      <img src="https://cdn.simpleicons.org/github/ffffff" height="32" width="32" alt="GitHub" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" height="32" width="32" alt="Bitbucket" />
+      <img src="https://cdn.simpleicons.org/cursor/ffffff" height="32" width="32" alt="Cursor" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="32" width="32" alt="Jira" />
+    </td>
+  </tr>
+</table>
 
 ---
 
