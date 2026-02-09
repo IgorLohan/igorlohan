@@ -29,9 +29,6 @@
 ---
 
 ## 🛠️ Tecnologias e ferramentas
-
-<sub>Stack que utilizo no dia a dia</sub>
-
 <br>
 
 <div align="left">
