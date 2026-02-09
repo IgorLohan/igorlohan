@@ -1,88 +1,83 @@
-<h2 align="left">Olá, me chamo Igor Lohan. Sou Desenvolvedor Web Full Stack. Prazer em tê-lo no meu perfil!</h2>
+<div align="center">
 
-###
+# 👋 Olá, eu sou o Igor Lohan
 
-<p align="left">Sou desenvolvedor web com experiência em front-end e back-end, atuando na criação e manutenção de aplicações web. Tenho como objetivo consolidar minha carreira na área de tecnologia, ampliando conhecimentos técnicos e contribuindo de forma consistente para o sucesso dos projetos, com dedicação, disciplina e propósito.</p>
+### Desenvolvedor Web Full Stack
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Sempre+aprendendo.+Sempre+construindo." alt="Typing SVG" />
+</p>
+
+</div>
+
+---
+
+<p align="center">
+  Sou desenvolvedor web com experiência em <strong>front-end</strong> e <strong>back-end</strong>, atuando na criação e manutenção de aplicações web.
+  <br>
+  Meu objetivo é consolidar minha carreira na área de tecnologia, ampliando conhecimentos técnicos e contribuindo com dedicação, disciplina e propósito.
+</p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=IgorLohan&locale=pt-br&mode=weekly&theme=noctis_minimus&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorLohan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorLohan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="165" alt="Top languages" />
 </div>
 
-###
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Igor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+## 🛠️ Tecnologias e ferramentas
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>🎨 Front-end</strong>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="28" width="28" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" width="28" alt="TypeScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" width="28" alt="HTML5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" width="28" alt="CSS3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" width="28" alt="React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" width="28" alt="Next.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="28" width="28" alt="Vue.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="28" width="28" alt="Vuetify" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="28" width="28" alt="Tailwind" />
+    </td>
+    <td align="center" width="33%">
+      <strong>⚙️ Back-end</strong>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="28" width="28" alt="Node.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="28" width="28" alt="NestJS" />
+      <img src="https://loopback.io/images/global/loopback-mark-frame-white.svg" height="28" width="28" alt="LoopBack" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" width="28" alt="MongoDB" />
+    </td>
+    <td align="center" width="33%">
+      <strong>🔧 DevOps & Tools</strong>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="28" width="28" alt="Git" />
+      <img src="https://cdn.simpleicons.org/github/ffffff" height="28" width="28" alt="GitHub" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" height="28" width="28" alt="Bitbucket" />
+      <img src="https://cdn.simpleicons.org/cursor/ffffff" height="28" width="28" alt="Cursor" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="28" width="28" alt="Jira" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📬 Contato e redes
+
+<div align="center">
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rust-gamma-57.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-lohan)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583986854857)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/noronha_09)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorlohan301@gmail.com)
+
 </div>
 
-##
+---
 
-<div> 
-  <a href="https://portfolio-rust-gamma-57.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/noronha_09" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:igorlohan301@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-lohan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=IgorLohan&color=58a6ff&style=flat-square" alt="Profile views" />
 </div>
-
-###
-
-<h3 align="left">Tecnologias e ferramentas</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="30" alt="vuetify logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwind logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
-
-###
-
-<h3 align="left">Contato e redes</h3>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/igor-lohan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="24" alt="linkedin logo"  />
-  </a>
-  <a href="https://portfolio-rust-gamma-57.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfólio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=flat" height="24" alt="portfolio logo"  />
-  </a>
-  <a href="https://www.instagram.com/noronha_09/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="24" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/IgorLohan/igorlohan/output/snake.svg" alt="Snake animation" />
-
-###
