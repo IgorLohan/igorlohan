@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Sempre+aprendendo.+Sempre+construindo." alt="Typing SVG" />
 </p>
 
+![Coding Work From Home GIF by Domme Space](https://media2.giphy.com/media/v1.Y2lkPTBhNTU2YjhmMDBqYjNxaGR0N2FpcDkyN3cyMTU1NGtoNWgxNnB2c3QyZmdwMmptaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
+
 </div>
 
 ---
