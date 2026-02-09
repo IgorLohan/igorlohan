@@ -20,14 +20,16 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=igorlohan&theme=tokyonight-duo&border_radius=50&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorlohan&hide_border=true&langs_count=8&theme=tokyonight&title_color=70a5fd" height="260" alt="Most Used Languages" />
 </div>
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
-<div align="center">
-  <div style="display: inline-block; vertical-align: top; text-align: center; margin: 0 12px;">
+<div align="left">
+  <div style="display: inline-block; vertical-align: top; text-align: left; margin: 0 12px;">
     <strong>🎨 Front-end</strong><br><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="28" width="28" alt="JavaScript" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" width="28" alt="TypeScript" />
@@ -39,14 +41,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="28" width="28" alt="Vuetify" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="28" width="28" alt="Tailwind" />
   </div>
-  <div style="display: inline-block; vertical-align: top; text-align: center; margin: 0 12px;">
+  <div style="display: inline-block; vertical-align: top; text-align: left; margin: 0 12px;">
     <strong>⚙️ Back-end</strong><br><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="28" width="28" alt="Node.js" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="28" width="28" alt="NestJS" />
     <img src="https://loopback.io/images/global/loopback-mark-frame-white.svg" height="28" width="28" alt="LoopBack" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" width="28" alt="MongoDB" />
   </div>
-  <div style="display: inline-block; vertical-align: top; text-align: center; margin: 0 12px;">
+  <div style="display: inline-block; vertical-align: top; text-align: left; margin: 0 12px;">
     <strong>🔧 DevOps & Tools</strong><br><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="28" width="28" alt="Git" />
     <img src="https://cdn.simpleicons.org/github/ffffff" height="28" width="28" alt="GitHub" />
