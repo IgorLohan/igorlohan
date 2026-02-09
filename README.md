@@ -30,7 +30,7 @@
 
 <div align="left">
   <div style="display: inline-block; vertical-align: top; text-align: left; margin: 0 12px;">
-    <strong>🎨 Front-end</strong><br><br>
+    <strong>🎨 Front-end</strong><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="28" width="28" alt="JavaScript" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" width="28" alt="TypeScript" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" width="28" alt="HTML5" />
@@ -42,14 +42,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="28" width="28" alt="Tailwind" />
   </div>
   <div style="display: inline-block; vertical-align: top; text-align: left; margin: 0 12px;">
-    <strong>⚙️ Back-end</strong><br><br>
+    <br><strong>⚙️ Back-end</strong><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="28" width="28" alt="Node.js" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="28" width="28" alt="NestJS" />
     <img src="https://loopback.io/images/global/loopback-mark-frame-white.svg" height="28" width="28" alt="LoopBack" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" width="28" alt="MongoDB" />
   </div>
   <div style="display: inline-block; vertical-align: top; text-align: left; margin: 0 12px;">
-    <strong>🔧 DevOps & Tools</strong><br><br>
+    <br><strong>🔧 DevOps & Tools</strong><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="28" width="28" alt="Git" />
     <img src="https://cdn.simpleicons.org/github/ffffff" height="28" width="28" alt="GitHub" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" height="28" width="28" alt="Bitbucket" />
