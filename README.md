@@ -28,7 +28,7 @@
 
 ---
 
-## <code>&lt; / &gt;</code> Stack Tecnológico
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="Git" />
