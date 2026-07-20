@@ -1,72 +1,150 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Igor Lohan
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Igor+Lohan;Desenvolvedor+Web+Full+Stack;Front-end+%7C+Back-end+%7C+Produto" alt="Typing SVG" />
 
-### Desenvolvedor Web Full Stack
+  <br />
 
-<p align="center">
-  <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Sempre+aprendendo.+Sempre+construindo." alt="Typing SVG" />
+  <p>
+    <a href="https://portfolio-rust-gamma-57.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+    <a href="https://www.linkedin.com/in/igor-lohan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:igorlohan301@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://wa.me/5583986854857"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=IgorLohan&color=58a6ff&style=flat-square&label=profile+views" alt="Profile views" />
+
+</div>
+
+---
+
+## Sobre mim
+
+Desenvolvedor **Full Stack** focado em construir aplicações web modernas, performáticas e com boa experiência de uso — do interface ao backend.
+
+Trabalho com **React**, **Next.js**, **Vue**, **Node.js** e **NestJS**, entregando soluções completas com atenção a código limpo, organização e produto.
+
+- Construo interfaces responsivas e acessíveis
+- Desenvolvo APIs escaláveis e bem estruturadas
+- Gosto de transformar ideias em produtos reais, com disciplina e propósito
+
+---
+
+## Stack principal
+
+### Front-end
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-![Coding Work From Home GIF by Domme Space](https://media2.giphy.com/media/v1.Y2lkPTBhNTU2YjhmMDBqYjNxaGR0N2FpcDkyN3cyMTU1NGtoNWgxNnB2c3QyZmdwMmptaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
-
-</div>
-
----
-
-<p align="center">
-  Sou desenvolvedor web com experiência em <strong>front-end</strong> e <strong>back-end</strong>, atuando na criação e manutenção de aplicações web.
-  <br>
-  Meu objetivo é consolidar minha carreira na área de tecnologia, ampliando conhecimentos técnicos e contribuindo com dedicação, disciplina e propósito.
+### Back-end
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/LoopBack-3EB34F?style=for-the-badge&logo=loopback&logoColor=white" alt="LoopBack" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
+### Ferramentas e fluxo
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+</p>
+
+---
+
+## Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://portfolio-rust-gamma-57.vercel.app/">Portfólio</a></h3>
+      <p>Site pessoal com projetos, stack e formas de contato — vitrine do meu trabalho como desenvolvedor.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      </p>
+      <p>
+        <a href="https://portfolio-rust-gamma-57.vercel.app/">Live</a> ·
+        <a href="https://github.com/IgorLohan/portfolio">Código</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/IgorLohan/barbertip">BarberTip</a></h3>
+      <p>Aplicação voltada a tipagem e fluxo de barbearia, com tipagem forte e foco em experiência do usuário.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      </p>
+      <p>
+        <a href="https://github.com/IgorLohan/barbertip">Código</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- <td width="50%" valign="top">
+      <h3><a href="https://github.com/IgorLohan/chefia">Chefia</a></h3>
+      <p>Sistema web com Vue no front e API dedicada — visão full stack de ponta a ponta.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      </p>
+      <p>
+        <a href="https://github.com/IgorLohan/chefia">Front</a> ·
+        <a href="https://github.com/IgorLohan/api-chefia">API</a>
+      </p>
+    </td> -->
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/IgorLohan/Rick-and-Morty">Rick and Morty</a></h3>
+      <p>Consumo de API pública com listagem e detalhamento de personagens — prática de UI e integração.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      </p>
+      <p>
+        <a href="https://github.com/IgorLohan/Rick-and-Morty">Código</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub em números
+
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=igorlohan&theme=tokyonight-duo&border_radius=50&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorlohan&hide_border=true&langs_count=8&theme=tokyonight&title_color=70a5fd" height="260" alt="Most Used Languages" />
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IgorLohan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorLohan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=igorlohan&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
 </div>
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## Vamos conversar?
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="Git" />
-  <img src="https://cdn.simpleicons.org/github/ffffff" height="40" width="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="40" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" width="40" alt="Vuetify" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40" alt="Tailwind" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" width="40" alt="NestJS" />
-  <img src="https://loopback.io/images/global/loopback-mark-frame-white.svg" height="40" width="40" alt="LoopBack" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" height="40" width="40" alt="Bitbucket" />
-  <img src="https://cdn.simpleicons.org/cursor/ffffff" height="40" width="40" alt="Cursor" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="40" width="40" alt="Jira" />
-</div>
-
----
-
-## 📬 Contato e redes
+Aberto a oportunidades, colaborações e projetos interessantes.
 
 <div align="center">
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rust-gamma-57.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-lohan)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583986854857)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/noronha_09)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorlohan301@gmail.com)
+  <p>
+    <a href="https://www.linkedin.com/in/igor-lohan"><img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:igorlohan301@gmail.com"><img src="https://img.shields.io/badge/Enviar_e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://portfolio-rust-gamma-57.vercel.app/"><img src="https://img.shields.io/badge/Ver_portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+  </p>
 
-</div>
+  <sub>Feito com dedicação · Igor Lohan</sub>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IgorLohan&color=58a6ff&style=flat-square" alt="Profile views" />
 </div>
