@@ -110,6 +110,7 @@ Trabalho com **React**, **Next.js**, **Vue**, **Node.js** e **NestJS**, entregan
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       </p>
       <p>
+        <a href="https://rickmorty.up.railway.app/">Live</a> ·
         <a href="https://github.com/IgorLohan/Rick-and-Morty">Código</a>
       </p>
     </td>
